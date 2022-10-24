@@ -1,0 +1,14 @@
+[{
+  "projectUrl": "https://discord.gg/WTvTbSPknJ",
+  "provider": "davidgamings",
+  "name": "Test",
+  "description": "Test",
+  "id": "test-plugin",
+  "releases": [{
+    "date": "2022-10-24",
+    "sha512sum": "6EF1D7DE2BD8E9C7E04A65EC1F58004BB1327F093E02F49C020142162A16690A3C7BAC313A51CB23198A7BDAC129AD19BB5D843546CA336311888E78B3251424",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/unethicalite/unethicalite-plugins-release/main/test.jar",
+    "requires": "^1.0.0"
+  }]
+}]
